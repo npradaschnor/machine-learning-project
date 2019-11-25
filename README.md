@@ -1,19 +1,28 @@
-# machine-learning-project
+# Boston Housing Dataset
 
-### Boston Housing Dataset
+***
 
+## Machine Learning Project
 
-This project requires Python 3.7 and the following Python libraries installed:
+***
 
-+ NumPy
-+ Pandas
-+ matplotlib
-+ seaborn
-+plotly
-+ scipy
-+ scikit-learn
-+ statsmodel
-+ tensorflow
+### Noa Pereira Prada Schnor
+
+***
+
+This project concerns the Boston House Prices dataset, qhich was first published in 1978 contains US census data concerning houses in various areas around the city of Boston. The project consists in descriptive and inferential statistics, and prediction of the variable price using keras to create a neural network.
+
+This project requires [Python 3.7](https://www.python.org/downloads/release/python-374/) and the following Python libraries installed:
+
++ [NumPy](https://numpy.org/)
++ [Pandas](https://pandas.pydata.org/)
++ [matplotlib](https://matplotlib.org/)
++ [seaborn](https://seaborn.pydata.org/)
++ [scipy](https://www.scipy.org/)
++ [sklearn](https://scikit-learn.org/stable/)
++ [statsmodel](https://www.statsmodels.org/stable/index.html)
++ [tensorflow](https://www.tensorflow.org/)
++ [keras](https://keras.io/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/install)
 
@@ -22,12 +31,3 @@ If you do not have Python installed yet, it is highly recommended that you insta
 Template code is provided in the `Boston_House_Dataset.ipynb` notebook file. 
 
 The file can also be viewed at [https://nbviewer.jupyter.org/github/npradaschnor/machine-learning-project/blob/master/Boston_House_Dataset.ipynb]
-
-
-In a terminal or command window, navigate to the top-level project directory machine-learning-project/ and run one of the commands below to open the Jupyter Notebook software and project file in your browser.
-
-```ipython notebook Boston_House_Dataset.ipynb```
-
-or
-
-```jupyter notebook Boston_House_Dataset.ipynb```
