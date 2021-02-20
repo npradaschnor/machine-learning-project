@@ -10,7 +10,7 @@
 
 ***
 
-This project concerns the Boston House Prices dataset, qhich was first published in 1978 contains US census data concerning houses in various areas around the city of Boston. The project consists in descriptive and inferential statistics, and prediction of the variable price using keras to create a neural network.
+This project concerns the Boston House Prices dataset, which was first published in 1978 contains US census data concerning houses in various areas around the city of Boston. The project consists in descriptive and inferential statistics, and prediction of the variable price using keras to create a neural network.
 
 This project requires [Python 3.7](https://www.python.org/downloads/release/python-374/) and the following Python libraries installed:
 
